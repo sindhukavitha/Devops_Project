@@ -2,9 +2,6 @@
 
 A beautiful and responsive coffee shop website built using **HTML**, **CSS**, and **JavaScript**. This project showcases a modern coffee store with sections like Home, About, Coffee Menu, Reviews, and Blog.
 
-## 🚀 Live Demo
-👉 [View Website](https://sindhukavitha.github.io/Devops_Project)
-
 ## 📂 Features
 - Responsive layout for all devices
 - Animated navigation bar with hamburger menu
